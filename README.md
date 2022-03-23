@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Boavista_Ludwig
-- 👀 I’m interested in manufacturing, digital technologies & startups
-- 🌱 I’m currently learning CSS & Dart ;-)
-- 💞️ I’m looking to collaborate on open source MES (manufacturing execution systems) & IIoT projects
-- 📫 How to reach me Twitter.
+- 👀 I’m interested in manufacturing, startups & digital technologies
+- 🌱 I’m currently learning CSS & JS ;-)
+- 💞️ I’m open to collaborate on Open Source MES (manufacturing execution systems) & IIoT projects
+- 📫 Reach me on Twitter.
 
 <!---
 BoavistaLudwig/BoavistaLudwig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
