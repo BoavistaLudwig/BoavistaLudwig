@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Boavista_Ludwig
 - 👀 I’m interested in manufacturing, startups & digital technologies
-- 🌱 I’m currently learning CSS & JS ;-)
-- 💞️ I’m open to collaborate on Open Source MES (manufacturing execution systems) & IIoT projects
+- 🌱 I’m currently practicing CSS & JS ;-)
+- 💞️ I’m open for collaboration around Open Source MES (manufacturing execution systems) & IIoT projects
 - 📫 Reach me on Twitter.
 
 <!---
