@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BoavistaLudwig
+- 👋 Hey, I’m @BoavistaLudwig
 - 👀 I’m interested in manufacturing, startups & all kinds of digital technologies
-- 💞️ I'm living my version of the European dream in 🇵🇹
+- 💞️ I'm currently enjoying my version of the European dream in 🇵🇹
 - 📫 I’m open for collaboration around Open Source MES (manufacturing execution systems) & IIoT projects
 
 <!---
