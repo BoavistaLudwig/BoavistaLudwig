@@ -1,11 +1,11 @@
-- 👋 Hey, I’m @BoavistaLudwig
+- 👋 Hey, I’m Ludwig Villalba
 - 👀 I’m interested in manufacturing, startups & all sorts of digital technologies
 - 💞️ I'm currently enjoying my version of the European dream in 🇵🇹
 - 📫 I’m open for projects around manufcturing, SAAS & mobile 🥰
 
-      (0) Text
+      (0) Intro
       Hej,
-      I am available now for projects and would like develop my skill and contribute.
+      I am available for projects right now.
 
       Basic requirements:
 
@@ -15,15 +15,14 @@
 
       (1) Product Management
       - Wordpress & Web  ⭐️⭐️⭐️⭐️
-        - I work with Wordpress for +10 years
+        - I work with Wordpress for +10 years and am fluent with Low/No-Code tools.
       - Mobile ⭐️⭐️
-        - I prepare for a personal React Native project
-        - Onsite, Poland
+        - I am currently in the process of preparing for a personal React Native project
       - Technical marketing ⭐️⭐️⭐️
-        - GA, GTM, Hotjar
+        - I implement & work with GA, GTM, Hotjar, etc ...
       - Project Management
-        - I come from project management, venture building and entrepreneurship background. Today, I only offer digital remote work. But, all of that
-        experience pays into my solution finding.
+        - I come from a project management, venture building and entrepreneurship background. Today, I only offer digital remote work. But, all of that
+        prior experience pays into my digital work.
 
 
       (2) Design
