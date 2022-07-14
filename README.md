@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Ludwig Villalba
-- 👀 I’m interested in manufacturing, startups & all sorts of digital technologies
+- 👀 I’m interested in the manufacturing of things, startups & all sorts of digital technologies
 - 💞️ I'm currently enjoying my version of the European dream in 🇵🇹
-- 📫 I’m open for projects around manufcturing, SAAS & mobile 🥰
+- 📫 I’m open for projects around manufacturing, SAAS & mobile 🥰
 
       (0) Intro
       Hej,
@@ -14,16 +14,14 @@
       ✅ German | English
 
       (1) Product Management
+      I come from a project management, venture building and entrepreneurial background. Today, I only offer digital remote work. But, all of that
+      prior experience pays into my digital work.
       - Wordpress & Web  ⭐️⭐️⭐️⭐️
         - I work with Wordpress for +10 years and am fluent with Low/No-Code tools.
       - Mobile ⭐️⭐️
-        - I am currently in the process of preparing for a personal React Native project
+        - I am currently in the process of preparing for a personal React Native (mobile) project
       - Technical marketing ⭐️⭐️⭐️
         - I implement & work with GA, GTM, Hotjar, etc ...
-      - Project Management
-        - I come from a project management, venture building and entrepreneurship background. Today, I only offer digital remote work. But, all of that
-        prior experience pays into my digital work.
-
 
       (2) Design
       I design for ages, but I used to hire designers for detailed work. At the beginning of the pandemic, I was a) hit by the bottleneck for talents and 
@@ -38,7 +36,6 @@
         - today I use Figjam or Miro
       - Graphic ⭐️⭐️
         -  I tend to buy icons/illustrations.
-
 
       (3) Programming
       I started my programming journey during the pandemic and did not settle/specialise yet. Ergo, the highest rating I give to myself are 4 stars. In 
