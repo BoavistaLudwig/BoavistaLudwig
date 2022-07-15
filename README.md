@@ -60,7 +60,6 @@ I started my programming journey during the pandemic and did not settle/speciali
 🔗 Figma: https://www.figma.com/@boavista_ludwig
 
 
-
 <!---
 BoavistaLudwig/BoavistaLudwig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
