@@ -10,22 +10,23 @@
       Basic requirements:
 
       ✅ Remote only
-      ✅ Part-time or OnDemand
+      ✅ Part-time (60-80%) or OnDemand
       ✅ German | English
 
       (1) Product Management
-      I come from a project management, venture building and entrepreneurial background. Today, I only offer digital remote work. But, all of that
-      prior experience pays into my digital work.
+      I come from a project management, venture building and entrepreneurial background. Today, I only offer digital remote work. But, all of that prior 
+      experience pays into my digital work.
       - Wordpress & Web  ⭐️⭐️⭐️⭐️
-        - I work with Wordpress for +10 years and am fluent with Low/No-Code tools.
+        - I have worked with Wordpress for +10 years and am fluent with Low/No-Code tools.
       - Mobile ⭐️⭐️
         - I am currently in the process of preparing for a personal React Native (mobile) project
       - Technical marketing ⭐️⭐️⭐️
         - I implement & work with GA, GTM, Hotjar, etc ...
 
       (2) Design
-      I design for ages, but I used to hire designers for detailed work. At the beginning of the pandemic, I was a) hit by the bottleneck for talents and 
-      b) quickly thereafter I discovered Figma, and choose to advance my very own skills. You can find an excerpt of my work on my Figma profile.
+      I have been designing for ages, but I used to hire designers for detailed work. At the beginning of the pandemic, I was a) hit by the bottleneck for 
+      talents and 
+      b) quickly thereafter I discovered Figma, and chose to advance my very own skills. You can find an excerpt of my work on my Figma profile.
 
       - UI/UX ⭐️⭐️⭐️⭐️
         - Mostly web. I am currently working on a concept for a mobile web.
@@ -38,11 +39,11 @@
         -  I tend to buy icons/illustrations.
 
       (3) Programming
-      I started my programming journey during the pandemic and did not settle/specialise yet. Ergo, the highest rating I give to myself are 4 stars. In 
-      general, it looks like I will specialise on React/React Native and Python. Programming has currently the highest priority for me.
+      I started my programming journey during the pandemic and did not settle/specialize yet. Ergo, the highest rating I give to myself is 4 stars. In 
+      general, it looks like I will specialize in React/React Native and Python. Programming is currently the highest priority for me.
 
       - Html & CSS ⭐️⭐️⭐️⭐️
-        - I really enjoy CSS and am very comfortable with flexbox, grid and playing with any methology or anything new, from BEM to Tailwind. Why not 5 
+        - I really enjoy CSS and am very comfortable with flexbox, grid and playing with any methodology or anything new, from BEM to Tailwind. Why not 5 
         stars? There was no need yet to achieve 5 stars and JS is/was just too intriguing.
       - Java Script ⭐️⭐️⭐️
         - I already applied JS to web projects. Watched hours of tutorials. By now I have an advanced understanding up to OOP level. I will now build up   
@@ -56,6 +57,7 @@
       🔗 LinkedIn: https://www.linkedin.com/in/ludwigvillalba/
       🔗 Github: https://github.com/BoavistaLudwig
       🔗 Figma: https://www.figma.com/@boavista_ludwig
+
 
 
 <!---
