@@ -23,7 +23,7 @@ I come from a project management, startup and manufacturing background. Today, I
   - I have worked with Wordpress for +10 years and am fluent with Low/No-Code tools and their limitations. Depending on the level of digitization of the project/client, I don’t recommend WP.
 - Mobile ⭐️⭐️
   - I am currently in the process of managing a personal React Native (mobile) project. This includes intense studies.
-- Staff/Team
+- Staff/Team  ⭐️⭐️⭐️⭐️
   - I hired and collaborated with remote talents for +10 years, mainly via Upwork.com
   - I hired and collaborated with agencies in Krakow, Poznan & Warsaw, Poland
 - Others  ⭐️⭐️⭐️
@@ -60,7 +60,6 @@ I started my programming journey during the pandemic and did not settle/speciali
 🔗 LinkedIn: https://www.linkedin.com/in/ludwigvillalba/
 🔗 Github: https://github.com/BoavistaLudwig
 🔗 Figma: https://www.figma.com/@boavista_ludwig
-
 
 
 <!---
