@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Ludwig Villalba
-- 👀 I’m interested in the manufacturing of things, startups & all sorts of digital technologies
+- 👀 I’m interested in the manufacturing of things, all things digital & startups/entrepreneurship
 - 💞️ I'm currently enjoying my version of the European dream in 🇵🇹 (soon 🇪🇸)
-- 📫 I’m open for projects around manufacturing, SAAS & mobile 🥰
+- 📫 I’m half-open for projects around manufacturing, SAAS & mobile 🥰
 
 <!---
 BoavistaLudwig/BoavistaLudwig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
